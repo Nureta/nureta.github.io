@@ -8,7 +8,8 @@
 
   body {
       font-family: IBM Plex Mono, sans-serif;
-      margin: 0;
+      margin: auto;
+      max-width: 500px;
       padding: 0;
       background: linear-gradient(135deg, #e0f7fa, #f1f8e9);
       color: #333;
