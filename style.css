@@ -1,5 +1,13 @@
-    body {
-      font-family: Arial, sans-serif;
+
+
+.ibm-plex-mono-regular {
+  font-family: "IBM Plex Mono", monospace;
+  font-weight: 400;
+  font-style: normal;
+}
+
+  body {
+      font-family: IBM Plex Mono, sans-serif;
       margin: 0;
       padding: 0;
       background: linear-gradient(135deg, #e0f7fa, #f1f8e9);
