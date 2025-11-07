@@ -23,10 +23,7 @@
       border-bottom: 3px solid #007BFF;
     }
 
-    header h1 {
-      margin: 0;
-      font-size: 2.5em;
-    }
+   
 
     header p {
       margin: 10px 0 0;
@@ -61,11 +58,7 @@
       width: 67%;
     }
 
-    h2 {
-      border-bottom: 2px solid #007BFF;
-      padding-bottom: 5px;
-      color: #007BFF;
-    }
+    
 
     ul {
       list-style-type: none;
